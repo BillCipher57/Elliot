@@ -6,7 +6,7 @@ The word “Hack” or “Hacking” that is used on this site shall be regarded
 Only use the software against your own devices or if consent is given. DO NOT BREAK THE LAW
 
 *Edit: This repository is just an experimental attempt at combining a Carter agent with some of the original hacking tools, as a result, this application is not recommended for long-term usage. Please visit the original repository by zhiftyDK.
-https://github.com/zhiftyDK/hacksir
+https://github.com/zhiftyDK/hacksir *
 
 ## What is Hacksir ❓
 Hacksir is a hacking application for educational and ethical purposes. <br/>
