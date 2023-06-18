@@ -16,7 +16,6 @@ def main():
             p = Process(target=checkIP, args=(ip,))
             p.start()
         except:
-            print("Exception is thrown", flush=True)
             continue
 
 #Check ip address hostname
